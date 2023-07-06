@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "622020965547",
+    "project_id": "flash-chat-a6d16",
+    "storage_bucket": "flash-chat-a6d16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622020965547:android:52f295e4f8a4996517f3ee",
+        "android_client_info": {
+          "package_name": "co.muskan.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622020965547-rarbr3nfqmude58lqgvvefsomkej2feb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJPoXpI6c--3C0OfhcFmR4nTlQACtLkFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622020965547-rarbr3nfqmude58lqgvvefsomkej2feb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
